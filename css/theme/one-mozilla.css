@@ -42,7 +42,7 @@
 
 /*********************************************
  * GLOBAL STYLES
- *********************************************/
+*********************************************/
 body {
   background: #d7d3c8;
   background: -moz-radial-gradient(center, circle cover, #f4f1e9 0%, #d7d3c8 100%);
@@ -84,6 +84,9 @@ body {
   letter-spacing: 0;
   text-shadow: none;
   font-weight: 300;
+  word-wrap: normal;
+  word-break: normal;
+  width: 100%;
 }
 
 /*********************************************
